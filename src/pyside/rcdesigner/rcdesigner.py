@@ -1,3 +1,4 @@
+# This is a comment
 import os
 import sys
 from PySide2.QtWidgets import QApplication, QMainWindow
